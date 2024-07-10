@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 3.4.0
+_src_path: gh:epics-containers/ec-services-template
+cluster_name: lemongrab
+cluster_namespace: test
+cluster_type: dls_dedicated
+description: test lab IOC Instances and Services
+git_platform: github.com
+github_org: none
+ioc_group: test
+location: ''
+logging_url: ''
+repo_uri: git@github.com:none/bl01t.git
+type: lab

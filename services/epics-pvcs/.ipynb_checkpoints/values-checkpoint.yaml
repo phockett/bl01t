@@ -1,0 +1,6 @@
+epics-pvcs:
+
+  # the location where the IOCs will run - same as beamline for beamlines
+  location:
+  # the name of the repository in which the IOC is grouped
+  ioc_group: test
